@@ -1,3 +1,10 @@
+# Taskmaster Front End
+
+This is a react app to interact with the Taskmaster server that we built using DynamoDb. 
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
