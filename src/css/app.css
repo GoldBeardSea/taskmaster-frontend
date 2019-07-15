@@ -1,0 +1,20 @@
+body {
+  background: lightblue;
+  margin: 30px;
+}
+
+header {
+  margin: 30px;
+  height: 100px;
+}
+
+ul {
+  list-style-type: none;
+}
+
+li {
+  border: 1px;
+  padding: 5px;
+  
+}
+
